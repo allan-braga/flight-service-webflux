@@ -1,0 +1,32 @@
+[
+  {
+  "flightNumber": "6d4476d6-7663-4939-a747-01dba82be612",
+  "departureCode": "LIS",
+  "arrivalCode": "MDR",
+  "date" : "2021-12-20"
+  },
+  {
+    "flightNumber": "aa26ed24-b10c-4b88-b2ca-048b8fd35160",
+    "departureCode": "LIS",
+    "arrivalCode": "MDR",
+    "date" : "2021-12-20"
+  },
+  {
+    "flightNumber": "26123af0d-091c-4686-a095-472bdf50f521",
+    "departureCode": "LIS",
+    "arrivalCode": "MDR",
+    "date" : "2021-12-20"
+  },
+  {
+    "flightNumber": "2622217af0d-091c-4686-a095-472bdf50f538",
+    "departureCode": "LIS",
+    "arrivalCode": "GRE",
+    "date" : "2021-12-20"
+  },
+  {
+    "flightNumber": "21237af0d-091c-4686-a095-472bdf50f52a",
+    "departureCode": "SP",
+    "arrivalCode": "LIS",
+    "date" : "2021-12-20"
+  }
+]
